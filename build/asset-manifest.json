@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.229aa966.css",
+    "main.js": "/static/js/main.0c0a4e4c.js",
+    "static/media/pexels-kyle-roxas-2138922.jpg": "/static/media/pexels-kyle-roxas-2138922.6e599df2845a302f1d62.jpg",
+    "static/media/blog.jpg": "/static/media/blog.937f1bed2541d5581771.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.229aa966.css",
+    "static/js/main.0c0a4e4c.js"
+  ]
+}
